@@ -8,6 +8,7 @@ Email: aflippinfairy@gmail.com
 * * * * *
 Highlights
 --------------
+  + Into to Java
   + Database and spreadsheet management  
   + Microsoft Office
   + QuickBooks
@@ -33,4 +34,8 @@ Certification
   + QuickBooks (2011) 
   + Bookkeeping (2011)
     
-    
+Experience
+-------------
+**New York Life** August 2012-Present
+  + **Agent Assistant:** Provide assistance to insurance agent, proof read documents and applications, communicate with clients,  
+  upkeep client flie systems, manage payroll, perform basic office tasks.
