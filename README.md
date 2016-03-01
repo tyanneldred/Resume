@@ -10,7 +10,7 @@ Highlights
 --------------
   + Database and spreadsheet management  
   + Microsoft Office
-  + Quickbooks
+  + QuickBooks
   + Accounting/Bookkeeping
   + Training in business development
   + Keyboarding/ 10-key
@@ -22,3 +22,4 @@ Highlights
 
 Certification
 ---------------
+    + Microsoft Word (2010) + Excel (2010)  + QuickBooks (2011) + Bookkeeping (2011)
