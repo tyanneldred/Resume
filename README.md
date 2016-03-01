@@ -1,6 +1,6 @@
 Tyann Eldred
 ================
-2710 S 8th Ave
+2710 S 8th Ave  
 Yakima, WA 98903
 
 Tele: (509) 594-1373  
@@ -22,9 +22,9 @@ Highlights
 
 Education  
 -----------
-  **Perry Technical Institute, 2011-2012, Yakima, WA  
+  **Perry Technical Institute**, 2011-2012, Yakima, WA  
     Business Technology and Accounting  
-        + GPA 3.8
+       + GPA 3.8
 
 Certification
 ---------------
