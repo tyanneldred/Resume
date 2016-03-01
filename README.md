@@ -1,10 +1,7 @@
 Tyann Eldred
 ================
-2710 S. 86th Ave          
-Yakima, WA 98903          
-    
-**Tele: (509) 594-1373**  
-**Email: aflippinfairy@gmail.com**
+**Tele: (509) 594-1373**    2710 S 86th Ave
+**Email: aflippinfairy@gmail.com**  Yakima, WA 98903
 * * * * *
 Highlights
 --------------
