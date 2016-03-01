@@ -39,5 +39,5 @@ Experience
 **New York Life** August 2012-Present
   + **Agent Assistant:** Provide assistance to insurance agent, proof read documents and applications, communicate with clients,  upkeep client flie systems, manage payroll, perform basic office tasks.
 
-**Habitat for Humanity** November 2011-August 2012
+**Habitat for Humanity** November 2011-August 2012  
   +**Office Volunteer:** Type, create and proof read documents, answer phones, created and set up new filing system converting all client files to make it easier to find and manage records. Handle confidential information and material responsibly.
