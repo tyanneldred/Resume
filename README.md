@@ -1,6 +1,9 @@
 Tyann Eldred
 ================
-**Tele: (509) 594-1373**    2710 S 86th Ave
+2710 S 8th Ave
+Yakima, WA 98903
+
+**Tele: (509) 594-1373**   
 **Email: aflippinfairy@gmail.com**  Yakima, WA 98903
 * * * * *
 Highlights
@@ -19,4 +22,4 @@ Highlights
 
 Certification
 ---------------
-    + Microsoft Word (2010) + Excel (2010)  + QuickBooks (2011) + Bookkeeping (2011)
+    + Microsoft Word (2010) Excel (2010)  QuickBooks (2011) Bookkeeping (2011)
