@@ -1,6 +1,6 @@
 Tyann Eldred
 ================
-2710 S 8th Ave  
+2710 S 86th Ave  
 Yakima, WA 98903
 
 Tele: (509) 594-1373  
@@ -8,7 +8,7 @@ Email: aflippinfairy@gmail.com
 * * * * *
 Highlights
 --------------
-  + Into to Java
+  + Intro to Java
   + Database and spreadsheet management  
   + Microsoft Office
   + QuickBooks
@@ -29,8 +29,7 @@ Education
 
 Certification
 ---------------
-  + Microsoft Word (2010) 
-  + Excel (2010)  
+Microsoft Word (2010) Excel (2010)
   + QuickBooks (2011) 
   + Bookkeeping (2011)
     
@@ -47,3 +46,6 @@ Experience
   
 **Safeway** March 2008-November 2008
   + **Deli Clerk:** Successfully coped with deadlines, resolved conflicts, handled cash, worked cash register, customer service, sales, built positive team attitude and time management skills.
+
+**K9 NorthWest** December 2006-September 2007
+  + **Kennel Assistant:** Prepared, proof read, and sent business correspondence, kept records of clients and mail documents, supervised and trained individuals, sales, help define goals and create action plans.
