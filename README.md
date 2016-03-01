@@ -1,6 +1,6 @@
 Tyann Eldred
 ================
-(509)594-1373 // aflippinfairy@gmail.com // Yakima, WA
+(509) 594-1373 // aflippinfairy@gmail.com // Yakima, WA
 * * * * *
 Highlights
 --------------
@@ -11,7 +11,7 @@ Highlights
   + Accounting/Bookkeeping
   + Training in business development
   + Keyboarding/ 10-key
-  + Public speaking/ presentations
+  + Public speaking/presentations
   + Human resources
   + Customer relations
   + Self starter
