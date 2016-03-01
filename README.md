@@ -23,14 +23,14 @@ Highlights
 Education  
 -----------
   **Perry Technical Institute**, 2011-2012, Yakima, WA  
-    Business Technology and Accounting  
-      + GPA 3.8
+  Business Technology and Accounting  
+  GPA 3.8
 
 Certification
 ---------------
-    + Microsoft Word (2010) 
-    + Excel (2010)  
-    + QuickBooks (2011) 
-    + Bookkeeping (2011)
+  + Microsoft Word (2010) 
+  + Excel (2010)  
+  + QuickBooks (2011) 
+  + Bookkeeping (2011)
     
     
