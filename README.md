@@ -37,5 +37,4 @@ Certification
 Experience
 -------------
 **New York Life** August 2012-Present
-  + **Agent Assistant:** Provide assistance to insurance agent, proof read documents and applications, communicate with clients,  
-  upkeep client flie systems, manage payroll, perform basic office tasks.
+  + **Agent Assistant:** Provide assistance to insurance agent, proof read documents and applications, communicate with clients,  upkeep client flie systems, manage payroll, perform basic office tasks.
