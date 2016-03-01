@@ -1,5 +1,5 @@
 ##Tyann Eldred
------------------
+================
 2710 S. 86th Ave          
 Yakima, WA 98903          
     
@@ -19,3 +19,6 @@ Highlights
   + Customer relations
   + Self starter
   + Work independently and as team
+
+Certification
+---------------
