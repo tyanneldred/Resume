@@ -29,7 +29,8 @@ Education
 
 Certification
 ---------------
-Microsoft Word (2010) Excel (2010)
+  + Microsoft Word (2010) 
+  + Excel (2010)
   + QuickBooks (2011) 
   + Bookkeeping (2011)
     
