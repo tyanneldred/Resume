@@ -1,6 +1,6 @@
 #Tyann Eldred
 ================
-(509) 594-1373 // aflippinfairy@gmail.com // Yakima, WA
+509 594 1373 // aflippinfairy@gmail.com // Yakima, WA
 * * * * *
 ###Highlights
 --------------
