@@ -1,8 +1,8 @@
-Tyann Eldred
+######Tyann Eldred
 ================
 (509) 594-1373 // aflippinfairy@gmail.com // Yakima, WA
 * * * * *
-Highlights
+##Highlights
 --------------
   + Intro to Java
   + Database and spreadsheet management  
@@ -17,7 +17,7 @@ Highlights
   + Self starter
   + Work independently and as team
 
-Education  
+##Education  
 -----------
   **Perry Technical Institute**, 2011-2012, Yakima, WA  
   Business Technology and Accounting  
