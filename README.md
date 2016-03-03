@@ -1,4 +1,4 @@
-######Tyann Eldred
+#Tyann Eldred
 ================
 (509) 594-1373 // aflippinfairy@gmail.com // Yakima, WA
 * * * * *
@@ -32,7 +32,7 @@ Certification
     
 Experience
 -------------
-**New York Life** August 2012-Present
+######**New York Life** August 2012-Present
   + **Agent Assistant:** Provide assistance to insurance agent, proof read documents and applications, communicate with clients,  upkeep client file systems, manage payroll, perform basic office tasks.
 
 **Habitat for Humanity** November 2011-August 2012  
