@@ -5,6 +5,7 @@
 ###Highlights
 --------------
   + Intro to Java
+  + Intro to Ruby
   + Database and spreadsheet management  
   + Microsoft Office
   + QuickBooks
